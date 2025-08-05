@@ -1,6 +1,6 @@
 # Hesap Yönetimi Sistemi
 
-Bu proje, İşletmecilik dersi kapsamında takım arkadaşlarımla birlikte geliştirdiğimiz bir **Hesap Yönetimi Sistemi**dir.
+Bu proje, E-işletmecilik dersi kapsamında takım arkadaşlarımla birlikte geliştirdiğimiz bir **Hesap Yönetimi Sistemi**dir.
 
 Projenin amacı, kullanıcıların sisteme giriş yaparak kurumlara katkı sağlayabildiği, yöneticilerin ise kullanıcı, personel ve organizasyon işlemlerini yönetebildiği güvenli ve işlevsel bir hesap yönetimi sistemi geliştirmektir. Sistem; şifre güvenliği, veri yönetimi ve otomatik e-posta bildirimleri gibi özelliklerle kullanıcı dostu ve kurumsal bir yapıda tasarlanmıştır.
 
